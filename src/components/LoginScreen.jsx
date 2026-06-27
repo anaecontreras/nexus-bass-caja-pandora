@@ -81,7 +81,7 @@ export default function LoginScreen({ onLogin }) {
           <h2 className={styles.manifestoTitle}>ENTREGABLE DEL PROYECTO</h2>
           <ul className={styles.list}>
             <li className={styles.listItem}>
-              <span className={styles.bullet}>&#x1F7E2;</span> <a target="_blank" href="https://github.com/anaecontreras">Repositorio GitHub</a>
+              <span className={styles.bullet}>&#x1F7E2;</span> <a target="_blank" href="https://github.com/anaecontreras/nexus-bass-caja-pandora.git">Repositorio GitHub</a>
             </li>
             <li className={styles.listItem}>
               <span className={styles.bullet}>&#x1F7E2;</span> <a target="_blank" className="linkItem" href="https://www.youtube.com/watch?v=0RrQ49Kiuwc&list=PLTcOzxm2NcYBBAZC-Ya_xqZ_eZ8i0o9NC">Video de validación</a>
